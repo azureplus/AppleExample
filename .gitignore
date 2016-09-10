@@ -1,0 +1,14 @@
+!Makefile
+*.mode*
+*.pbxuser
+xcuserdata
+xcshareddata
+.DS_Store
+build
+External
+DerivedData
+Pods
+*.mov
+*.mp3
+*.mp4
+*.avi
